@@ -1,0 +1,22 @@
+name: meteo_ai
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  - ca-certificates
+  - openssl
+  - ipykernel
+  - xarray
+  - bottleneck
+  - netcdf4
+  - certifi
+  - matplotlib
+  - ydata-profiling
+  - ipywidgets
+  - nbqa
+  - black
+  - isort
+  - jupyterlab
