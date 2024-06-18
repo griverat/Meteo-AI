@@ -4,13 +4,9 @@ Este repositorio contiene los notebooks y material a desarrollar durante el tall
 
 Los notebooks se han diseñado para ser ejecutados en Google Colab, una plataforma gratuita que permite ejecutar código Python en la nube. Para ejecutar los notebooks, se debe hacer clic en el botón `Open in Colab` que aparece al inicio de cada notebook o en la siguiente lista.
 
-1. **Introducción a la Inteligencia Artificial** <a target="_blank" href="https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/1.intro.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+1. **Introducción a la Inteligencia Artificial** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/1.intro.ipynb)
 
-2. **Deep Learning con redes convolucionales** <a target="_blank" href="https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/2.cnn.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+2. **Deep Learning con redes convolucionales** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/2.cnn_datos.ipynb)
 
 
 ## Uso de manera local
