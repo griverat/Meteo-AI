@@ -20,3 +20,6 @@ dependencies:
   - black
   - isort
   - jupyterlab
+  - zarr
+  - fsspec
+  - gcsfs
