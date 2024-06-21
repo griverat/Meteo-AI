@@ -10,6 +10,7 @@ Los notebooks se han diseñado para ser ejecutados en Google Colab, una platafor
 
 3. **Regularización en Machine Learning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/3.regularization.ipynb)
 
+4. **Redes Neuronales Recurrentes (RNN)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/4.rnn_datos.ipynb)
 
 ## Uso de manera local
 
