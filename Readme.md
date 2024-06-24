@@ -12,6 +12,8 @@ Los notebooks se han diseñado para ser ejecutados en Google Colab, una platafor
 
 4. **Redes Neuronales Recurrentes (RNN)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/4.rnn_datos.ipynb)
 
+5. **AI para generación de datos 2D** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/griverat/Meteo-AI/blob/main/notebooks/5.gen_ai.ipynb)
+
 ## Uso de manera local
 
 Si desea usar los notebooks de manera local, ya sea usando Jupyter Notebook, Juptyer Lab o Visual Studio Code, puede clonar este repositorio usando el siguiente comando (requiere tener instalado git):
