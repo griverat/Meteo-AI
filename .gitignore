@@ -1,2 +1,5 @@
 *.nc
 .DS_Store
+!ncep_temp.nc
+!ncep_precip.nc
+!ncep_pres.nc
